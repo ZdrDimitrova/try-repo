@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sp7AInzlnzrwtsU+MJGbEL3hwflkfvxZ1HtfmccggK3KU2Al07NSvDXjhC0XSzDX+CxgLZOBuIkca8UpqzG+wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ЗдравкаДимитрова\\Desktop\\TestingExercise\\TestingExercise\\HeroesGame\\HeroesGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ЗдравкаДимитрова\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ЗдравкаДимитрова\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ЗдравкаДимитрова\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

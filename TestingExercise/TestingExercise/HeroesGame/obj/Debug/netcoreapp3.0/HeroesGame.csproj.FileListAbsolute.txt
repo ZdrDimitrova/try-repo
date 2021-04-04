@@ -1,0 +1,9 @@
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\HeroesGame.deps.json
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\HeroesGame.dll
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\bin\Debug\netcoreapp3.0\HeroesGame.pdb
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.csprojAssemblyReference.cache
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.AssemblyInfoInputs.cache
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.AssemblyInfo.cs
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.csproj.CoreCompileInputs.cache
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.dll
+C:\Users\ЗдравкаДимитрова\Desktop\TestingExercise\TestingExercise\HeroesGame\obj\Debug\netcoreapp3.0\HeroesGame.pdb
